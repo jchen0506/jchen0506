@@ -15,7 +15,8 @@ While I am not coding, I love cooking and exploring different recipes which insp
 You can reach me at:
 LinkedIn Profile: https://www.linkedin.com/in/jing-chen-cs/
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jchen0506)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jchen0506&count_private=true&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchen0506)]
 <!--
 **jchen0506/jchen0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
