@@ -17,6 +17,11 @@ LinkedIn Profile: https://www.linkedin.com/in/jing-chen-cs/
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jchen0506&count_private=true&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchen0506)
+ 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 <!--
 **jchen0506/jchen0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
