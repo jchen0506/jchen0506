@@ -20,7 +20,7 @@ LinkedIn Profile: https://www.linkedin.com/in/jing-chen-cs/
  
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/jchen0506/count.svg" />
 </p>
 <!--
 **jchen0506/jchen0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
