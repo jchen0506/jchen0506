@@ -13,7 +13,7 @@ Some of the fun projects I've done:
 While I am not coding, I love cooking and exploring different recipes which inspired me to build a web app for recipe searching. While I keep adding new features to my recipe app, I am seeking full-time software engineering positions
 
 You can reach me at:
-LinkedIn Profile: https://www.linkedin.com/in/jing-chen-cs/
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jing-chen-cs/)
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jchen0506&count_private=true&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchen0506)
