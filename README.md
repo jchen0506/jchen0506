@@ -8,7 +8,7 @@ I have a strong background in building web apps with Javascript, React+Hooks, No
 Some of the fun projects I've done:
 * Kitchen Master: https://github.com/jchen0506/KitchenMaster (on-going project, more features coming on the way!)
 * Camp Aang: https://github.com/hrr46-fec-aang/photoservice
-* Katar-a Center: https://github.com/hrr46-fec-aang/photoservice
+* Katar-a Center: https://github.com/team-Appa/review-service
 
 While I am not coding, I love cooking and exploring different recipes which inspired me to build a web app for recipe searching. While I keep adding new features to my recipe app, I am seeking full-time software engineering positions
 
