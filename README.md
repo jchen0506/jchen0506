@@ -1,7 +1,7 @@
 ### Hi, I am Jing 👋
 
 
-I am a Full Stack Software Engineer specializing in JavaScript. While I am pursuing an M.S in Computer Science. and will graduate May 2021, I am also working at [The Molecular Science Software Institute (MolSSI)](https://molssi.org) as a Software Scientist Intern. After I grauate this May, I will joining MolSSI as a full-time Software Scientist. With a Ph.D. degree in the field of Molecular Dynamics Simultion in Materials Science, now as a software scientist, I thoroughly enjoy professions that involve problem-solving, attention to detail, and critical thinking. I am passionate about the step by step process of building something to solve real-life problems.
+I am a Full Stack Software Engineer specializing in JavaScript. While I am pursuing an M.S in Computer Science. and will graduate May 2021, I am also working at [The Molecular Science Software Institute (MolSSI)](https://molssi.org) as a Software Scientist Intern. After I grauate this May, I will joining MolSSI as a full-time Software Scientist. With a Ph.D. degree in the field of Molecular Dynamics Simultions in Materials Science, now as a software scientist, I thoroughly enjoy professions that involve problem-solving, attention to detail, and critical thinking. I am passionate about the step by step process of building something to solve real-life problems.
 
 I have a strong background in building web apps with Javascript, Python, Flask, React+Hooks, Node.js, Express, MySQL, PostgreSQL, MongoDB, Redis, and AWS. I think web applications will be our future because of its compatibility and portability. 
 
